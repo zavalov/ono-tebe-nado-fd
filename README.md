@@ -1,1 +1,1 @@
-https://github.com/zavalov/ono-tebe-nado
+https://github.com/zavalov/ono-tebe-nado-fd
