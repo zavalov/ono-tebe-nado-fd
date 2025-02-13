@@ -114,13 +114,13 @@ header {
     letter-spacing: 30px;
 }
 
+/*
 .letter-spacing-extended {
-    /* не совсем понял для чего */
 }
 
 .no-letter-spacing {
-    /* не совсем понял для чего */
 }
+*/
 
 .cover__description {
     display: flex;
