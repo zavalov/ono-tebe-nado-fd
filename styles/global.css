@@ -34,16 +34,9 @@ img {
 }
 
 h1 {
-  font-family: Raleway-bold, sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   font-size: 100px;
   color: white;
   line-height: 1.15;
-}
-
-h2 {
-  font-family: Raleway-bold, sans-serif;
-  text-transform: uppercase;
-  font-size: 40px;
-  color: black;
 }
